@@ -16,7 +16,7 @@ $(call inherit-product, vendor/twrp/config/common.mk)
 $(call inherit-product, device/samsung/m12/device.mk)
 
 PRODUCT_DEVICE := m12
-PRODUCT_NAME := omni_m12
+PRODUCT_NAME := twrp_m12
 PRODUCT_BRAND := samsung
 PRODUCT_MODEL := SM-M127F
 PRODUCT_MANUFACTURER := samsung
